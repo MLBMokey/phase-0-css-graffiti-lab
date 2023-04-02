@@ -1,1 +1,19 @@
 /* write your override styles here */
+#wall .tag-1 {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    display: none;
+    width: auto
+    height: auto;
+}
+
+#wall #tag-2 {
+    width: max-content;
+    height: max-content;
+    position: fixed;
+    display: none
+}
+
+#wall #tag-3 {
+    display: none
+}
